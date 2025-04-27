@@ -1,0 +1,2118 @@
+[680e900f3cd73] Entrou no case PUT
+[680e900f3cd73] Array data: Array
+(
+    [title] => CURSO@WWW
+    [category_id] => 4
+    [image] => https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60
+    [price] => 4500
+    [description] => Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.  curso abrange SEO, mídia social, email marketing e muito mais.
+    [instructor] => Ana Silva
+    [duration] => 45 horas
+    [level] => Avançado
+    [rating] => 3.5
+    [link_venda] => https://hotmart.com/marketing-digital
+    [featured] => 1
+    [formatted_description] => <h1 class="ql-align-center"><strong>TEXTO WWWW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+    [course_media] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 168
+                    [course_id] => 6
+                    [url] => https://web-assets.esetstatic.com/tn/-x700/wls/2024/5-2024/curso-ciberseguridad-online-gratis-eccouncil.jpeg
+                    [type] => image
+                    [created_at] => 2025-04-27 16:34:38
+                    [updated_at] => 2025-04-27 16:34:38
+                    [title] => img
+                )
+
+            [1] => Array
+                (
+                    [id] => 169
+                    [course_id] => 6
+                    [url] => https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg
+                    [type] => image
+                    [created_at] => 2025-04-27 16:34:38
+                    [updated_at] => 2025-04-27 16:34:38
+                    [title] => img
+                )
+
+        )
+
+    [learning_objectives] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 47
+                    [course_id] => 6
+                    [title] => obj 1
+                    [created_at] => 2025-04-27 16:34:38
+                    [updated_at] => 2025-04-27 16:34:38
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 1745784820303
+                                    [item] => item 001
+                                    [course_learning_objective_id] => 47
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 1745784820937
+                                    [item] => item 002
+                                    [course_learning_objective_id] => 47
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 48
+                    [course_id] => 6
+                    [title] => obj 2
+                    [created_at] => 2025-04-27 16:34:38
+                    [updated_at] => 2025-04-27 16:34:38
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 1745784834929
+                                    [item] => 2item 001
+                                    [course_learning_objective_id] => 48
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 1745784839342
+                                    [item] => 2item 002
+                                    [course_learning_objective_id] => 48
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+formatted_description PHP: <h1 class="ql-align-center"><strong>TEXTO WWWW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+[680e900f3cd73] Objectives antes do delete: Array
+(
+    [0] => Array
+        (
+            [id] => 47
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 16:34:38
+            [updated_at] => 2025-04-27 16:34:38
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1745784820303
+                            [item] => item 001
+                            [course_learning_objective_id] => 47
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1745784820937
+                            [item] => item 002
+                            [course_learning_objective_id] => 47
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 48
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 16:34:38
+            [updated_at] => 2025-04-27 16:34:38
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1745784834929
+                            [item] => 2item 001
+                            [course_learning_objective_id] => 48
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1745784839342
+                            [item] => 2item 002
+                            [course_learning_objective_id] => 48
+                        )
+
+                )
+
+        )
+
+)
+
+[680e900f3cd73] Objectives depois do delete e antes do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 47
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 16:34:38
+            [updated_at] => 2025-04-27 16:34:38
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1745784820303
+                            [item] => item 001
+                            [course_learning_objective_id] => 47
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1745784820937
+                            [item] => item 002
+                            [course_learning_objective_id] => 47
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 48
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 16:34:38
+            [updated_at] => 2025-04-27 16:34:38
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1745784834929
+                            [item] => 2item 001
+                            [course_learning_objective_id] => 48
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1745784839342
+                            [item] => 2item 002
+                            [course_learning_objective_id] => 48
+                        )
+
+                )
+
+        )
+
+)
+
+[680e900f3cd73] Inserindo objetivo: Array
+(
+    [id] => 47
+    [course_id] => 6
+    [title] => obj 1
+    [created_at] => 2025-04-27 16:34:38
+    [updated_at] => 2025-04-27 16:34:38
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1745784820303
+                    [item] => item 001
+                    [course_learning_objective_id] => 47
+                )
+
+            [1] => Array
+                (
+                    [id] => 1745784820937
+                    [item] => item 002
+                    [course_learning_objective_id] => 47
+                )
+
+        )
+
+)
+
+[680e900f3cd73] Objetivo inserido com sucesso: obj 1 | ID: 53
+[680e900f3cd73] Item inserido com sucesso: item 001
+[680e900f3cd73] Item inserido com sucesso: item 002
+[680e900f3cd73] Inserindo objetivo: Array
+(
+    [id] => 48
+    [course_id] => 6
+    [title] => obj 2
+    [created_at] => 2025-04-27 16:34:38
+    [updated_at] => 2025-04-27 16:34:38
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1745784834929
+                    [item] => 2item 001
+                    [course_learning_objective_id] => 48
+                )
+
+            [1] => Array
+                (
+                    [id] => 1745784839342
+                    [item] => 2item 002
+                    [course_learning_objective_id] => 48
+                )
+
+        )
+
+)
+
+[680e900f3cd73] Objetivo inserido com sucesso: obj 2 | ID: 54
+[680e900f3cd73] Item inserido com sucesso: 2item 001
+[680e900f3cd73] Item inserido com sucesso: 2item 002
+[680e900f3cd73] Objectives depois do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 47
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 16:34:38
+            [updated_at] => 2025-04-27 16:34:38
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1745784820303
+                            [item] => item 001
+                            [course_learning_objective_id] => 47
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1745784820937
+                            [item] => item 002
+                            [course_learning_objective_id] => 47
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 48
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 16:34:38
+            [updated_at] => 2025-04-27 16:34:38
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 1745784834929
+                            [item] => 2item 001
+                            [course_learning_objective_id] => 48
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 1745784839342
+                            [item] => 2item 002
+                            [course_learning_objective_id] => 48
+                        )
+
+                )
+
+        )
+
+)
+
+[680e946c6e17b] Entrou no case PUT
+[680e946c6e17b] Array data: Array
+(
+    [title] => CURSO@WWW
+    [category_id] => 4
+    [image] => https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60
+    [price] => 4500
+    [description] => Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.  curso abrange SEO, mídia social, email marketing e muito mais.
+    [instructor] => Ana Silva
+    [duration] => 45 horas
+    [level] => Avançado
+    [rating] => 3.5
+    [link_venda] => https://hotmart.com/marketing-digital
+    [featured] => 1
+    [formatted_description] => <h1 class="ql-align-center"><strong>TEXTO WWWW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+    [course_media] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 178
+                    [course_id] => 6
+                    [url] => https://web-assets.esetstatic.com/tn/-x700/wls/2024/5-2024/curso-ciberseguridad-online-gratis-eccouncil.jpeg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:14:07
+                    [updated_at] => 2025-04-27 17:14:07
+                    [title] => img
+                )
+
+            [1] => Array
+                (
+                    [id] => 179
+                    [course_id] => 6
+                    [url] => https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:14:07
+                    [updated_at] => 2025-04-27 17:14:07
+                    [title] => img
+                )
+
+        )
+
+    [learning_objectives] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 53
+                    [course_id] => 6
+                    [title] => obj 1
+                    [created_at] => 2025-04-27 17:14:07
+                    [updated_at] => 2025-04-27 17:14:07
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => item 00123455
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => item 00123455
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 54
+                    [course_id] => 6
+                    [title] => obj 2
+                    [created_at] => 2025-04-27 17:14:07
+                    [updated_at] => 2025-04-27 17:14:07
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => 2item 001
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => 2item 002
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 6
+)
+
+formatted_description PHP: <h1 class="ql-align-center"><strong>TEXTO WWWW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+[680e946c6e17b] Objectives antes do delete: Array
+(
+    [0] => Array
+        (
+            [id] => 53
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:14:07
+            [updated_at] => 2025-04-27 17:14:07
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 54
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:14:07
+            [updated_at] => 2025-04-27 17:14:07
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e946c6e17b] Objectives depois do delete e antes do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 53
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:14:07
+            [updated_at] => 2025-04-27 17:14:07
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 54
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:14:07
+            [updated_at] => 2025-04-27 17:14:07
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e946c6e17b] Inserindo objetivo: Array
+(
+    [id] => 53
+    [course_id] => 6
+    [title] => obj 1
+    [created_at] => 2025-04-27 17:14:07
+    [updated_at] => 2025-04-27 17:14:07
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => item 00123455
+                )
+
+            [1] => Array
+                (
+                    [item] => item 00123455
+                )
+
+        )
+
+)
+
+[680e946c6e17b] Objetivo inserido com sucesso: obj 1 | ID: 55
+[680e946c6e17b] Item inserido com sucesso: item 00123455
+[680e946c6e17b] Item inserido com sucesso: item 00123455
+[680e946c6e17b] Inserindo objetivo: Array
+(
+    [id] => 54
+    [course_id] => 6
+    [title] => obj 2
+    [created_at] => 2025-04-27 17:14:07
+    [updated_at] => 2025-04-27 17:14:07
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => 2item 001
+                )
+
+            [1] => Array
+                (
+                    [item] => 2item 002
+                )
+
+        )
+
+)
+
+[680e946c6e17b] Objetivo inserido com sucesso: obj 2 | ID: 56
+[680e946c6e17b] Item inserido com sucesso: 2item 001
+[680e946c6e17b] Item inserido com sucesso: 2item 002
+[680e946c6e17b] Objectives depois do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 53
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:14:07
+            [updated_at] => 2025-04-27 17:14:07
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 54
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:14:07
+            [updated_at] => 2025-04-27 17:14:07
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e972876dfb] Entrou no case PUT
+[680e972876dfb] Array data: Array
+(
+    [title] => CURSO@WWW
+    [category_id] => 4
+    [image] => https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60
+    [price] => 4500
+    [description] => Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.  curso abrange SEO, mídia social, email marketing e muito mais.
+    [instructor] => Ana Silva
+    [duration] => 45 horas
+    [level] => Avançado
+    [rating] => 3.5
+    [link_venda] => https://hotmart.com/marketing-digital
+    [featured] => 1
+    [formatted_description] => <h1 class="ql-align-center"><strong>TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+    [course_media] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 180
+                    [course_id] => 6
+                    [url] => https://web-assets.esetstatic.com/tn/-x700/wls/2024/5-2024/curso-ciberseguridad-online-gratis-eccouncil.jpeg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:32:44
+                    [updated_at] => 2025-04-27 17:32:44
+                    [title] => img
+                )
+
+            [1] => Array
+                (
+                    [id] => 181
+                    [course_id] => 6
+                    [url] => https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:32:44
+                    [updated_at] => 2025-04-27 17:32:44
+                    [title] => img
+                )
+
+        )
+
+    [learning_objectives] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 55
+                    [course_id] => 6
+                    [title] => obj 1
+                    [created_at] => 2025-04-27 17:32:44
+                    [updated_at] => 2025-04-27 17:32:44
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => item 0012
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => item 00123455
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 56
+                    [course_id] => 6
+                    [title] => obj 2
+                    [created_at] => 2025-04-27 17:32:44
+                    [updated_at] => 2025-04-27 17:32:44
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => 2item 001
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => 2item 002
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 6
+)
+
+formatted_description PHP: <h1 class="ql-align-center"><strong>TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+[680e972876dfb] Objectives antes do delete: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:32:44
+            [updated_at] => 2025-04-27 17:32:44
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 56
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:32:44
+            [updated_at] => 2025-04-27 17:32:44
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e972876dfb] Objectives depois do delete e antes do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:32:44
+            [updated_at] => 2025-04-27 17:32:44
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 56
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:32:44
+            [updated_at] => 2025-04-27 17:32:44
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e972876dfb] Inserindo objetivo: Array
+(
+    [id] => 55
+    [course_id] => 6
+    [title] => obj 1
+    [created_at] => 2025-04-27 17:32:44
+    [updated_at] => 2025-04-27 17:32:44
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => item 0012
+                )
+
+            [1] => Array
+                (
+                    [item] => item 00123455
+                )
+
+        )
+
+)
+
+[680e972876dfb] Objetivo inserido com sucesso: obj 1 | ID: 57
+[680e972876dfb] Item inserido com sucesso: item 0012
+[680e972876dfb] Item inserido com sucesso: item 00123455
+[680e972876dfb] Inserindo objetivo: Array
+(
+    [id] => 56
+    [course_id] => 6
+    [title] => obj 2
+    [created_at] => 2025-04-27 17:32:44
+    [updated_at] => 2025-04-27 17:32:44
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => 2item 001
+                )
+
+            [1] => Array
+                (
+                    [item] => 2item 002
+                )
+
+        )
+
+)
+
+[680e972876dfb] Objetivo inserido com sucesso: obj 2 | ID: 58
+[680e972876dfb] Item inserido com sucesso: 2item 001
+[680e972876dfb] Item inserido com sucesso: 2item 002
+[680e972876dfb] Objectives depois do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 55
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:32:44
+            [updated_at] => 2025-04-27 17:32:44
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 56
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:32:44
+            [updated_at] => 2025-04-27 17:32:44
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e976a8b0f4] Entrou no case PUT
+[680e976a8b0f4] Array data: Array
+(
+    [title] => CURSO@WWW
+    [category_id] => 4
+    [image] => https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60
+    [price] => 4500
+    [description] => Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.  curso abrange SEO, mídia social, email marketing e muito mais.
+    [instructor] => Ana Silva
+    [duration] => 45 horas
+    [level] => Avançado
+    [rating] => 3.5
+    [link_venda] => https://hotmart.com/marketing-digital
+    [featured] => 1
+    [formatted_description] => <h1 class="ql-align-center"><strong>TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+    [course_media] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 182
+                    [course_id] => 6
+                    [url] => https://web-assets.esetstatic.com/tn/-x700/wls/2024/5-2024/curso-ciberseguridad-online-gratis-eccouncil.jpeg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:44:24
+                    [updated_at] => 2025-04-27 17:44:24
+                    [title] => img
+                )
+
+            [1] => Array
+                (
+                    [id] => 183
+                    [course_id] => 6
+                    [url] => https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:44:24
+                    [updated_at] => 2025-04-27 17:44:24
+                    [title] => img
+                )
+
+        )
+
+    [learning_objectives] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 57
+                    [course_id] => 6
+                    [title] => obj 1
+                    [created_at] => 2025-04-27 17:44:24
+                    [updated_at] => 2025-04-27 17:44:24
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => item 0012
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => item 00123455
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 58
+                    [course_id] => 6
+                    [title] => obj 2
+                    [created_at] => 2025-04-27 17:44:24
+                    [updated_at] => 2025-04-27 17:44:24
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => 2item 001
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => 2item 002
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 6
+)
+
+formatted_description PHP: <h1 class="ql-align-center"><strong>TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+[680e976a8b0f4] Objectives antes do delete: Array
+(
+    [0] => Array
+        (
+            [id] => 57
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:44:24
+            [updated_at] => 2025-04-27 17:44:24
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 58
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:44:24
+            [updated_at] => 2025-04-27 17:44:24
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e976a8b0f4] Objectives depois do delete e antes do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 57
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:44:24
+            [updated_at] => 2025-04-27 17:44:24
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 58
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:44:24
+            [updated_at] => 2025-04-27 17:44:24
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e976a8b0f4] Inserindo objetivo: Array
+(
+    [id] => 57
+    [course_id] => 6
+    [title] => obj 1
+    [created_at] => 2025-04-27 17:44:24
+    [updated_at] => 2025-04-27 17:44:24
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => item 0012
+                )
+
+            [1] => Array
+                (
+                    [item] => item 00123455
+                )
+
+        )
+
+)
+
+[680e976a8b0f4] Objetivo inserido com sucesso: obj 1 | ID: 59
+[680e976a8b0f4] Item inserido com sucesso: item 0012
+[680e976a8b0f4] Item inserido com sucesso: item 00123455
+[680e976a8b0f4] Inserindo objetivo: Array
+(
+    [id] => 58
+    [course_id] => 6
+    [title] => obj 2
+    [created_at] => 2025-04-27 17:44:24
+    [updated_at] => 2025-04-27 17:44:24
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => 2item 001
+                )
+
+            [1] => Array
+                (
+                    [item] => 2item 002
+                )
+
+        )
+
+)
+
+[680e976a8b0f4] Objetivo inserido com sucesso: obj 2 | ID: 60
+[680e976a8b0f4] Item inserido com sucesso: 2item 001
+[680e976a8b0f4] Item inserido com sucesso: 2item 002
+[680e976a8b0f4] Objectives depois do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 57
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:44:24
+            [updated_at] => 2025-04-27 17:44:24
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 58
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:44:24
+            [updated_at] => 2025-04-27 17:44:24
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e99fee3128] Entrou no case PUT
+[680e99fee3128] Array data: Array
+(
+    [title] => CURSO@WWW
+    [category_id] => 4
+    [image] => https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60
+    [price] => 4500
+    [description] => Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.  curso abrange SEO, mídia social, email marketing e muito mais.
+    [instructor] => Ana Silva
+    [duration] => 45 horas
+    [level] => Avançado
+    [rating] => 3.5
+    [link_venda] => https://hotmart.com/marketing-digital
+    [featured] => 1
+    [formatted_description] => <h1 class="ql-align-center"><strong>@TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+    [course_media] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 184
+                    [course_id] => 6
+                    [url] => https://web-assets.esetstatic.com/tn/-x700/wls/2024/5-2024/curso-ciberseguridad-online-gratis-eccouncil.jpeg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:45:30
+                    [updated_at] => 2025-04-27 17:45:30
+                    [title] => img
+                )
+
+            [1] => Array
+                (
+                    [id] => 185
+                    [course_id] => 6
+                    [url] => https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:45:30
+                    [updated_at] => 2025-04-27 17:45:30
+                    [title] => img
+                )
+
+        )
+
+    [learning_objectives] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 59
+                    [course_id] => 6
+                    [title] => obj 1
+                    [created_at] => 2025-04-27 17:45:30
+                    [updated_at] => 2025-04-27 17:45:30
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => item 0012
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => item 00123455
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 60
+                    [course_id] => 6
+                    [title] => obj 2
+                    [created_at] => 2025-04-27 17:45:30
+                    [updated_at] => 2025-04-27 17:45:30
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => 2item 001
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => 2item 002
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 6
+)
+
+formatted_description PHP: <h1 class="ql-align-center"><strong>@TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+[680e99fee3128] Objectives antes do delete: Array
+(
+    [0] => Array
+        (
+            [id] => 59
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:45:30
+            [updated_at] => 2025-04-27 17:45:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 60
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:45:30
+            [updated_at] => 2025-04-27 17:45:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e99fee3128] Objectives depois do delete e antes do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 59
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:45:30
+            [updated_at] => 2025-04-27 17:45:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 60
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:45:30
+            [updated_at] => 2025-04-27 17:45:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e99fee3128] Inserindo objetivo: Array
+(
+    [id] => 59
+    [course_id] => 6
+    [title] => obj 1
+    [created_at] => 2025-04-27 17:45:30
+    [updated_at] => 2025-04-27 17:45:30
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => item 0012
+                )
+
+            [1] => Array
+                (
+                    [item] => item 00123455
+                )
+
+        )
+
+)
+
+[680e99fee3128] Objetivo inserido com sucesso: obj 1 | ID: 61
+[680e99fee3128] Item inserido com sucesso: item 0012
+[680e99fee3128] Item inserido com sucesso: item 00123455
+[680e99fee3128] Inserindo objetivo: Array
+(
+    [id] => 60
+    [course_id] => 6
+    [title] => obj 2
+    [created_at] => 2025-04-27 17:45:30
+    [updated_at] => 2025-04-27 17:45:30
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => 2item 001
+                )
+
+            [1] => Array
+                (
+                    [item] => 2item 002
+                )
+
+        )
+
+)
+
+[680e99fee3128] Objetivo inserido com sucesso: obj 2 | ID: 62
+[680e99fee3128] Item inserido com sucesso: 2item 001
+[680e99fee3128] Item inserido com sucesso: 2item 002
+[680e99fee3128] Objectives depois do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 59
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:45:30
+            [updated_at] => 2025-04-27 17:45:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 60
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:45:30
+            [updated_at] => 2025-04-27 17:45:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e9c4c2f54c] Entrou no case PUT
+[680e9c4c2f54c] Array data: Array
+(
+    [title] => CURSO@WWW
+    [category_id] => 4
+    [image] => https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60
+    [price] => 4500
+    [description] => Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.  curso abrange SEO, mídia social, email marketing e muito mais.
+    [instructor] => Ana Silva
+    [duration] => 45 horas
+    [level] => Avançado
+    [rating] => 3.5
+    [link_venda] => https://hotmart.com/marketing-digital
+    [featured] => 1
+    [formatted_description] => <h1 class="ql-align-center"><strong>@TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p class="ql-align-center"><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+    [course_media] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 186
+                    [course_id] => 6
+                    [url] => https://web-assets.esetstatic.com/tn/-x700/wls/2024/5-2024/curso-ciberseguridad-online-gratis-eccouncil.jpeg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:56:30
+                    [updated_at] => 2025-04-27 17:56:30
+                    [title] => img
+                )
+
+            [1] => Array
+                (
+                    [id] => 187
+                    [course_id] => 6
+                    [url] => https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg
+                    [type] => image
+                    [created_at] => 2025-04-27 17:56:30
+                    [updated_at] => 2025-04-27 17:56:30
+                    [title] => img
+                )
+
+        )
+
+    [learning_objectives] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 61
+                    [course_id] => 6
+                    [title] => obj 1
+                    [created_at] => 2025-04-27 17:56:30
+                    [updated_at] => 2025-04-27 17:56:30
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => item 0012
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => item 00123455
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 62
+                    [course_id] => 6
+                    [title] => obj 2
+                    [created_at] => 2025-04-27 17:56:30
+                    [updated_at] => 2025-04-27 17:56:30
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => 2item 001
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => 2item 002
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 6
+)
+
+formatted_description PHP: <h1 class="ql-align-center"><strong>@TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p class="ql-align-center"><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+[680e9c4c2f54c] Objectives antes do delete: Array
+(
+    [0] => Array
+        (
+            [id] => 61
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:56:30
+            [updated_at] => 2025-04-27 17:56:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 62
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:56:30
+            [updated_at] => 2025-04-27 17:56:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e9c4c2f54c] Objectives depois do delete e antes do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 61
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:56:30
+            [updated_at] => 2025-04-27 17:56:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 62
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:56:30
+            [updated_at] => 2025-04-27 17:56:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e9c4c2f54c] Inserindo objetivo: Array
+(
+    [id] => 61
+    [course_id] => 6
+    [title] => obj 1
+    [created_at] => 2025-04-27 17:56:30
+    [updated_at] => 2025-04-27 17:56:30
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => item 0012
+                )
+
+            [1] => Array
+                (
+                    [item] => item 00123455
+                )
+
+        )
+
+)
+
+[680e9c4c2f54c] Objetivo inserido com sucesso: obj 1 | ID: 63
+[680e9c4c2f54c] Item inserido com sucesso: item 0012
+[680e9c4c2f54c] Item inserido com sucesso: item 00123455
+[680e9c4c2f54c] Inserindo objetivo: Array
+(
+    [id] => 62
+    [course_id] => 6
+    [title] => obj 2
+    [created_at] => 2025-04-27 17:56:30
+    [updated_at] => 2025-04-27 17:56:30
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => 2item 001
+                )
+
+            [1] => Array
+                (
+                    [item] => 2item 002
+                )
+
+        )
+
+)
+
+[680e9c4c2f54c] Objetivo inserido com sucesso: obj 2 | ID: 64
+[680e9c4c2f54c] Item inserido com sucesso: 2item 001
+[680e9c4c2f54c] Item inserido com sucesso: 2item 002
+[680e9c4c2f54c] Objectives depois do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 61
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 17:56:30
+            [updated_at] => 2025-04-27 17:56:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 62
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 17:56:30
+            [updated_at] => 2025-04-27 17:56:30
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e9c8a3a170] Entrou no case PUT
+[680e9c8a3a170] Array data: Array
+(
+    [title] => CURSO@WWW
+    [category_id] => 4
+    [image] => https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&auto=format&fit=crop&q=60
+    [price] => 4500
+    [description] => Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.  curso abrange SEO, mídia social, email marketing e muito mais.
+    [instructor] => Ana Silva
+    [duration] => 45 horas
+    [level] => Avançado
+    [rating] => 3.5
+    [link_venda] => https://hotmart.com/marketing-digital
+    [featured] => 1
+    [formatted_description] => <h1 class="ql-align-center"><strong>@TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio2</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p class="ql-align-center"><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+    [course_media] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 188
+                    [course_id] => 6
+                    [url] => https://web-assets.esetstatic.com/tn/-x700/wls/2024/5-2024/curso-ciberseguridad-online-gratis-eccouncil.jpeg
+                    [type] => image
+                    [created_at] => 2025-04-27 18:06:20
+                    [updated_at] => 2025-04-27 18:06:20
+                    [title] => img
+                )
+
+            [1] => Array
+                (
+                    [id] => 189
+                    [course_id] => 6
+                    [url] => https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg
+                    [type] => image
+                    [created_at] => 2025-04-27 18:06:20
+                    [updated_at] => 2025-04-27 18:06:20
+                    [title] => img
+                )
+
+        )
+
+    [learning_objectives] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 63
+                    [course_id] => 6
+                    [title] => obj 1
+                    [created_at] => 2025-04-27 18:06:20
+                    [updated_at] => 2025-04-27 18:06:20
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => item 0012
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => item 00123455
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 64
+                    [course_id] => 6
+                    [title] => obj 2
+                    [created_at] => 2025-04-27 18:06:20
+                    [updated_at] => 2025-04-27 18:06:20
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [item] => 2item 001
+                                )
+
+                            [1] => Array
+                                (
+                                    [item] => 2item 002
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [id] => 6
+)
+
+formatted_description PHP: <h1 class="ql-align-center"><strong>@TEXTO WW@@@WW</strong></h1><p><br></p><p><br></p><p><em>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</em></p><p><br></p><p><br></p><p class="ql-align-right"><u>Aprenda as estratégias mais avançadas de marketing digital para alavancar seu negócio online. Este curso abrange SEO, mídia social, email marketing e muito mais.&nbsp;curso abrange SEO, mídia social, email marketing e muito mais.</u></p><p><br></p><ol><li>primerio</li><li>primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-center">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li><li class="ql-align-right">primerio</li></ol><ul><li>primerio</li><li class="ql-align-center">primerio2</li><li class="ql-align-justify">primerio</li><li class="ql-align-right">primerio</li></ul><p><br></p><p><br></p><p><a href="https://www.google.com/" rel="noopener noreferrer" target="_blank">TESTE LINK</a></p><p><br></p><p class="ql-align-center"><img src="https://www.remessaonline.com.br/blog/wp-content/uploads/2022/06/cursos-de-marketing-digital-gratuitos-1.jpg"></p>
+[680e9c8a3a170] Objectives antes do delete: Array
+(
+    [0] => Array
+        (
+            [id] => 63
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 18:06:20
+            [updated_at] => 2025-04-27 18:06:20
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 64
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 18:06:20
+            [updated_at] => 2025-04-27 18:06:20
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e9c8a3a170] Objectives depois do delete e antes do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 63
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 18:06:20
+            [updated_at] => 2025-04-27 18:06:20
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 64
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 18:06:20
+            [updated_at] => 2025-04-27 18:06:20
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
+[680e9c8a3a170] Inserindo objetivo: Array
+(
+    [id] => 63
+    [course_id] => 6
+    [title] => obj 1
+    [created_at] => 2025-04-27 18:06:20
+    [updated_at] => 2025-04-27 18:06:20
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => item 0012
+                )
+
+            [1] => Array
+                (
+                    [item] => item 00123455
+                )
+
+        )
+
+)
+
+[680e9c8a3a170] Objetivo inserido com sucesso: obj 1 | ID: 65
+[680e9c8a3a170] Item inserido com sucesso: item 0012
+[680e9c8a3a170] Item inserido com sucesso: item 00123455
+[680e9c8a3a170] Inserindo objetivo: Array
+(
+    [id] => 64
+    [course_id] => 6
+    [title] => obj 2
+    [created_at] => 2025-04-27 18:06:20
+    [updated_at] => 2025-04-27 18:06:20
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [item] => 2item 001
+                )
+
+            [1] => Array
+                (
+                    [item] => 2item 002
+                )
+
+        )
+
+)
+
+[680e9c8a3a170] Objetivo inserido com sucesso: obj 2 | ID: 66
+[680e9c8a3a170] Item inserido com sucesso: 2item 001
+[680e9c8a3a170] Item inserido com sucesso: 2item 002
+[680e9c8a3a170] Objectives depois do foreach: Array
+(
+    [0] => Array
+        (
+            [id] => 63
+            [course_id] => 6
+            [title] => obj 1
+            [created_at] => 2025-04-27 18:06:20
+            [updated_at] => 2025-04-27 18:06:20
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => item 0012
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => item 00123455
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 64
+            [course_id] => 6
+            [title] => obj 2
+            [created_at] => 2025-04-27 18:06:20
+            [updated_at] => 2025-04-27 18:06:20
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [item] => 2item 001
+                        )
+
+                    [1] => Array
+                        (
+                            [item] => 2item 002
+                        )
+
+                )
+
+        )
+
+)
+
